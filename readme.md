@@ -3,3 +3,4 @@
 - Tomate
 - Cornichon
 - Fromage
+- VEGAN
